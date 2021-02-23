@@ -1,11 +1,8 @@
 {
-  "name": "burger",
+  "name": "Burger",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "12.11.1"
-  },
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -14,7 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/tr8b5/Burger.git"
   },
-  "author": "William H Miller III",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tr8b5/Burger/issues"
